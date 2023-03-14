@@ -1,0 +1,8 @@
+8265bd1679663a7ea12ac168da84d2e8  
+API key
+
+
+
+API Image path
+"https://image.tmdb.org/t/p/original/"
+
